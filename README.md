@@ -1,1 +1,3 @@
-# odin-landingPpage
+# odin-landingPage
+
+My first landing page!
